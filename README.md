@@ -23,7 +23,7 @@ pip install -r requirements.txt
 ```
 3、运行检测，检测结果在output目录中  
 ```bazaar
-python .\infer.py --model_dir=yolov3_mobilenet_v3_large_voc --image_file=images\mixed_6.jpg
+python .\infer.py --model_dir=yolov3_mobilenet_v3_large_voc --image_file=images\sample.jpg
 ```
 
 ## 五、其他
