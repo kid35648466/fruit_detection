@@ -2,7 +2,7 @@
 
 ## 一、介绍
 本项目基于深度学习框架paddlepaddle，使用yolov3目标检测算法实现水果检测，橘子、香蕉、苹果图片各80张，检测效果如下图。  
-![detected_result](output/mixed_6.jpg)
+![detected_result](output/sample.jpg)
 
 ## 二、目录
 |-images  存放待检测的图片  
